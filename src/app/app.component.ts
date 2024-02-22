@@ -4,6 +4,7 @@ import { Component } from '@angular/core';
   selector: 'app-root',
   templateUrl: './app.component.html'
 })
+
 export class AppComponent {
-  public title: string = 'Hola mundo';
+  public title: string = 'Hola Mundo';
 }
